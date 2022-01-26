@@ -1,0 +1,71 @@
+body{
+  background: url('../images/cookie-monster.jpg');
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  /*soporte varios navegadores*/
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+
+}
+
+#container {
+  background: black;
+  width: 420px;
+  color: white;
+  padding: 15px;
+}
+
+h1{
+  font-size: 80px;
+  font-family: 'Roboto', sans-serif;
+}
+
+h2{
+  font-family: 'Roboto', sans-serif;
+  background: #85C1E9;
+  color:black;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+a {
+  color: #85C1E9;
+  text-decoration: none;
+}
+
+p{
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+}
+
+#redes{
+  text-align: center;
+  background: black;
+}
+
+#redes a {
+  margin: 5px;
+}
+
+.hecho{
+  text-align: center;
+  font-size: 16px;
+  font-family: 'Dancing Script', cursive;
+  color: white;
+  width: 450px;
+  border-radius: 50px;
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(117,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+.hecho p {
+  text-align: center;
+}
+
+#love{
+  color: white;
+  width: 19px;
+  height: auto;
+}
