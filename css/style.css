@@ -15,6 +15,7 @@ body{
   width: 420px;
   color: white;
   padding: 15px;
+  border-radius: 10px;
 }
 
 h1{
